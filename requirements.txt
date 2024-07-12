@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+selenium
+selenium-wire
+beautifulsoup4
+setuptools
+asyncio
